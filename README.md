@@ -18,20 +18,18 @@ The program successfully trained both the Decision Tree and Random Forest models
 The Python script automatically generates detailed visual reports to interpret the inner workings of the trained models.
 
 <p align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
+      <td align="center" width="100%">
         <b>Model Confusion Matrices</b><br><br>
         <img src="assets/confusion_matrix.png" width="100%" alt="Confusion Matrices DT vs RF"><br>
         <sub>Comparing misclassifications between DT and RF models</sub>
       </td>
-      <td align="center" width="50%">
+</p>
+<p align="center">
+<td align="center" width="50%">
         <b>Feature Importance Analysis</b><br><br>
         <img src="assets/feature_importance.png" width="100%" alt="Feature Importance Plot"><br>
         <sub>Evaluating the mathematical weight of each dataset feature</sub>
       </td>
-    </tr>
-  </table>
 </p>
 
 ## Quick Start Guide
